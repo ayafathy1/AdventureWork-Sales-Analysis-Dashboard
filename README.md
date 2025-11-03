@@ -76,7 +76,7 @@ Performance-optimized in DirectQuery mode
 Tooltip toggle experience
 
 # 📎 Project Files:
-AdventureWorks_Dashboard.pbix
+AdventureWork Dashboard.pbix
 
 AdventureWork Dashboard.png
 
